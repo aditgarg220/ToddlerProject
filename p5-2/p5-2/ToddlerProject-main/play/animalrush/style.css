@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.navigationbutton {
+  height: 100px;
+  width: 120px;
+  border-radius: 120px;
+  background-color: green;
+  border-style: none;
+  font-weight: bold;
+  
+}
